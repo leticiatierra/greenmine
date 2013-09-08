@@ -1,0 +1,744 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../EdicionHistoria_files/VeloNegroEdicion_u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:100px;
+    top:100px;
+    width:1000px;
+    height:1200px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:1206px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:592px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../EdicionHistoria_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:170px;
+    top:550px;
+    width:545px;
+    height:546px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:551px;
+    height:552px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:265px;
+    width:541px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../EdicionHistoria_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:190px;
+    top:604px;
+    width:193px;
+    height:26px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:199px;
+    height:32px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:189px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:191px;
+    top:610px;
+    width:66px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:189px;
+    top:781px;
+    width:454px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:190px;
+    top:683px;
+    width:97px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:189px;
+    top:584px;
+    width:237px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../EdicionHistoria_files/CampoDescripcion_u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:190px;
+    top:803px;
+    width:505px;
+    height:215px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:511px;
+    height:221px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:501px;
+    height:150px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:190px;
+    top:555px;
+    width:505px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../EdicionHistoria_files/u4_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:190px;
+    top:641px;
+    width:193px;
+    height:26px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:199px;
+    height:32px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:189px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../EdicionHistoria_files/PuntosDesarrollo_u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:306px;
+    top:608px;
+    width:30px;
+    height:17px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:23px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../EdicionHistoria_files/BotonSuprimirPuntosDesarrollo_u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:393px;
+    top:608px;
+    width:19px;
+    height:17px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:192px;
+    top:643px;
+    width:107px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 12px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u19_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u20_normal {
+    background-image: url('../EdicionHistoria_files/PuntosDesarrollo_u15_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:306px;
+    top:645px;
+    width:30px;
+    height:17px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:23px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:26px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../EdicionHistoria_files/BotonSuprimirPuntosDesarrollo_u17_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:393px;
+    top:645px;
+    width:19px;
+    height:17px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../EdicionHistoria_files/VentanaEtiquetas_u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:190px;
+    top:705px;
+    width:505px;
+    height:60px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:511px;
+    height:66px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:501px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:199px;
+    top:715px;
+    width:135px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../EdicionHistoria_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:374px;
+    top:1049px;
+    width:140px;
+    height:28px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:34px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:136px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../EdicionHistoria_files/u27_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:555px;
+    top:1049px;
+    width:140px;
+    height:28px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:34px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:136px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:341px;
+    top:647px;
+    width:46px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:341px;
+    top:610px;
+    width:40px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../EdicionHistoria_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:196px;
+    top:713px;
+    width:121px;
+    height:19px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:25px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:117px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:349px;
+    top:715px;
+    width:120px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../EdicionHistoria_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:317px;
+    top:713px;
+    width:21px;
+    height:19px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:27px;
+    height:25px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:323px;
+    top:715px;
+    width:11px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../EdicionHistoria_files/u33_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:346px;
+    top:713px;
+    width:121px;
+    height:19px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:25px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:117px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../EdicionHistoria_files/u36_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:467px;
+    top:713px;
+    width:21px;
+    height:19px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:27px;
+    height:25px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:473px;
+    top:715px;
+    width:11px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

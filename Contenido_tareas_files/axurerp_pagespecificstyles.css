@@ -1,0 +1,1016 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Contenido_tareas_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:188px;
+    height:698px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:704px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Contenido_tareas_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:194px;
+    top:0px;
+    width:188px;
+    height:698px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:704px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../Contenido_tareas_files/u0_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:386px;
+    top:0px;
+    width:188px;
+    height:698px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:704px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../Contenido_tareas_files/u2_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:578px;
+    top:0px;
+    width:188px;
+    height:698px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:704px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../Contenido_tareas_files/u0_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:770px;
+    top:0px;
+    width:188px;
+    height:698px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:704px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:188px;
+    height:112px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:8px;
+    top:7px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:8px;
+    top:44px;
+    width:64px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:7px;
+    top:66px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:2px;
+    top:127px;
+    width:188px;
+    height:112px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:8px;
+    top:129px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:8px;
+    top:165px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:7px;
+    top:188px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:2px;
+    top:247px;
+    width:188px;
+    height:112px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:8px;
+    top:249px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:8px;
+    top:285px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:7px;
+    top:308px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:2px;
+    top:367px;
+    width:188px;
+    height:112px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:8px;
+    top:369px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:8px;
+    top:405px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:7px;
+    top:428px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:194px;
+    top:5px;
+    width:188px;
+    height:112px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:200px;
+    top:7px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:200px;
+    top:43px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:199px;
+    top:66px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:194px;
+    top:127px;
+    width:188px;
+    height:112px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:200px;
+    top:129px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:200px;
+    top:165px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:199px;
+    top:188px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../Contenido_tareas_files/u10_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:194px;
+    top:247px;
+    width:188px;
+    height:112px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:194px;
+    height:118px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:184px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:200px;
+    top:249px;
+    width:182px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:200px;
+    top:285px;
+    width:148px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:199px;
+    top:308px;
+    width:177px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../Contenido_tareas_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:68px;
+    top:38px;
+    width:105px;
+    height:24px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:30px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:69px;
+    top:39px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u47_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u48_normal {
+    background-image: url('../Contenido_tareas_files/u45_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:67px;
+    top:159px;
+    width:105px;
+    height:24px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:30px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:68px;
+    top:160px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u50_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u51_normal {
+    background-image: url('../Contenido_tareas_files/u45_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:67px;
+    top:279px;
+    width:105px;
+    height:24px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:30px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:68px;
+    top:280px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u53_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u54_normal {
+    background-image: url('../Contenido_tareas_files/u45_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:67px;
+    top:399px;
+    width:105px;
+    height:24px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:30px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:68px;
+    top:400px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u56_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u57 {
+    position:absolute;
+    left:260px;
+    top:38px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u57_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u58 {
+    position:absolute;
+    left:260px;
+    top:160px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u58_text_sketch {
+    font-family: 'Verdana';
+}
+
+.u59 {
+    position:absolute;
+    left:260px;
+    top:280px;
+    width:103px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Verdana';
+    font-size: 10px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u59_text_sketch {
+    font-family: 'Verdana';
+}
+
